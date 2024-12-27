@@ -1,7 +1,11 @@
+\env
+# \src.egg-info
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+\logs
+\LICENSE
 
 # C extensions
 *.so
